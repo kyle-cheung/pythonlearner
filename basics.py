@@ -1,9 +1,7 @@
-import datetime
-import pandas
+x=10
+y="10"
 
-mynow = datetime.datetime.now()
+sum1 = x + x
+sum2 = y + y
 
-mynumber = 10
-mytext = "Hello"
-
-print(mynumber, mytext)
+print(sum1,sum2)
